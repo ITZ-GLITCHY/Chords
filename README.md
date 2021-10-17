@@ -1,7 +1,6 @@
 # Chords using erela.js
 
-[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.eu) if u want to support me, then please [invite](https://lava.milrato.eu) him!**
-
+[Erela.js docs](https://solaris.codes/projects/erelajs) 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/gufH7N36Ru)
 
 **IF YOU WANNA USE CUSTOM EMOJIS, AND SHARD THEN CHECK OUT THE CUSTOM-EMOJIS TAB(branch)!**
